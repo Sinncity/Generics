@@ -1,0 +1,8 @@
+C:\Users\igpar\source\repos\C# Practice\Queues\Queues\bin\Debug\Queues.exe.config
+C:\Users\igpar\source\repos\C# Practice\Queues\Queues\bin\Debug\Queues.exe
+C:\Users\igpar\source\repos\C# Practice\Queues\Queues\bin\Debug\Queues.pdb
+C:\Users\igpar\source\repos\C# Practice\Queues\Queues\obj\Debug\Queues.csproj.AssemblyReference.cache
+C:\Users\igpar\source\repos\C# Practice\Queues\Queues\obj\Debug\Queues.csproj.SuggestedBindingRedirects.cache
+C:\Users\igpar\source\repos\C# Practice\Queues\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+C:\Users\igpar\source\repos\C# Practice\Queues\Queues\obj\Debug\Queues.exe
+C:\Users\igpar\source\repos\C# Practice\Queues\Queues\obj\Debug\Queues.pdb
